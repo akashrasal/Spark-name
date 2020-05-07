@@ -3,5 +3,4 @@ Changes in readme
 messaging android 
 new repo
 
-Line frm bug-fix
-msg froom feature
+These are changes from new branch.
